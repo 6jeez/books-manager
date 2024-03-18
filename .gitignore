@@ -1,2 +1,4 @@
 library.db
 .venv/
+.idea/
+__pycache__/
