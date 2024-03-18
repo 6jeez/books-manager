@@ -13,7 +13,7 @@ This is a simple library management system implemented in Python. It allows user
 ## Installation
 
 1. Clone the repository:
-```git clone ```
+```git clone https://github.com/6jeez/books-manager```
 
 
 ## Usage
